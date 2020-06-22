@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "vanity:items/yhorm_machete"
+    },
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [ 28, 90, 0 ],
+			"translation": [ 0.00, 16.50, -4.50 ],
+			"scale": [ 2, 2, 2 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ -330, -90, 0 ],
+			"translation": [ 0.00, 16.50, -4.50 ],
+			"scale": [ 2, 2, 2.00 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 168, 70, 226 ],
+			"translation": [ 4.75, 14.75, -6.75 ],
+			"scale": [ 2.00, 2.00, 2.00 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 266, 282, 238 ],
+			"translation": [ 3.50, 14.50, -4.25 ],
+			"scale": [ 2.00, 2.00, 2.00 ]
+		},
+		"gui": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0.75 ],
+			"scale": [ 1, 1, 1.00 ]
+		}
+	}
+}
